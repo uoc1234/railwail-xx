@@ -1,5 +1,3 @@
--- demo
-
 -- Create Data
 drop database if exists testing_mysql;
 create database			testing_mysql;
